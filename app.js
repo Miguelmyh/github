@@ -1,2 +1,2 @@
 let color = ["yellow",
-"red"]
+"red", "purple", "gray"]

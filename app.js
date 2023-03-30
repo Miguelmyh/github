@@ -1,3 +1,3 @@
 let color = ["yellow",
 "red"]
-let int = 100;
+let int = 50;
